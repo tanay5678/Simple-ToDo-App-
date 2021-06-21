@@ -1,3 +1,23 @@
+# Simple ToDo App 
+
+The objective of this project to understand React. 
+
+# Framework and Programming Language:
+<ul>
+  <li>ReactJs, HTML, CSS, JSX, Firebase </li>
+</ul>
+
+This is very sample app you can add task and you can delete it too.
+I used firebase Database to store previous task and whenever you refresh page using React hook and firebase I call them and display.
+Whenever you add new task it store into Firebase database and once you remove the task it removes from the database too. 
+
+
+# App Link : 
+<a>https://todo-80d71.web.app/</a>
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
